@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Equation Solver
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Solve the math of All In One WP Security
 // @author       António Silva
 // @include      */admin/*
