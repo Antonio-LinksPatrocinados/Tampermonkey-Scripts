@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Equation Solver
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Solve the math of All In One WP Security
 // @author       António Silva
 // @include      */admin/*
 // @include      */wp-admin/
+// @include      */admin
 // @updateURL    https://raw.githubusercontent.com/Antonio-LinksPatrocinados/Tampermonkey-Scripts/master/MathSolver/MathSolver.user.js
 // @downloadURL  https://raw.githubusercontent.com/Antonio-LinksPatrocinados/Tampermonkey-Scripts/master/MathSolver/MathSolver.user.js
 // @grant        none
