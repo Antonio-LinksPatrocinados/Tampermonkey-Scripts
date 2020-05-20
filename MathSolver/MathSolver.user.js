@@ -6,8 +6,8 @@
 // @author       António Silva
 // @include      */admin/*
 // @include      */wp-admin/
-// @updateURL    https://raw.githubusercontent.com/Antonio-LinksPatrocinados/Tampermonkey-Scripts/master/Math%20Solver/MathSolver.js
-// @downloadURL  https://raw.githubusercontent.com/Antonio-LinksPatrocinados/Tampermonkey-Scripts/master/Math%20Solver/MathSolver.js
+// @updateURL    https://raw.githubusercontent.com/Antonio-LinksPatrocinados/Tampermonkey-Scripts/master/MathSolver/MathSolver.user.js
+// @downloadURL  https://raw.githubusercontent.com/Antonio-LinksPatrocinados/Tampermonkey-Scripts/master/MathSolver/MathSolver.user.js
 // @grant        none
 // ==/UserScript==
 var equacao;
