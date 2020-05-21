@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Equation Solver
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.6
 // @description  Solve the math of All In One WP Security
 // @author       António Silva
 // @include      */admin/*
@@ -417,10 +417,10 @@ document.getElementById('aiowps-captcha-answer').value = resultado;
 document.getElementById('user_login').value = 'Antonio';
 
   if ( window.location.host == 'general.pt' ) {
-    document.getElementById('user_pass').value = '87125971';
+    document.getElementById('user_pass').value = 'pass';
   }
   else {
-    document.getElementById('user_pass').value = 'Antonio@2016';
+    document.getElementById('user_pass').value = 'pass2';
   }
 
 }
